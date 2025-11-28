@@ -9,16 +9,16 @@ Our project is a **modern coffee shop website** designed to showcase products, a
 
 | Module/Page Name        | Purpose/Functionality                                                                 | Responsible Member(s) |
 |-------------------------|-------------------------------------------------------------------------------------|----------------------|
-| Home / Hero Section     | Showcase brand, highlight featured drinks, slider for promotions                    | Alice                |
-| About                   | Provide information about the coffee shop, story, values                             | Bob                  |
-| Menu / Categories       | Display drink categories, list products with description, images, prices            | Charlie              |
-| Live Search             | Allow users to search drinks by name or description                                  | Alice                |
-| Order / Modal           | Enable users to select a drink, view price, add to cart                              | Bob                  |
-| Cart / Modal            | Display items added to cart, allow quantity adjustments, remove items, checkout     | Charlie              |
-| Contact                 | Contact form for users to send messages or inquiries                                 | Alice                |
-| Features Section        | Highlight unique features, e.g., quality beans, fast delivery, cozy ambiance        | Bob                  |
-| Footer                  | Include social media links, address, copyright information                          | Charlie              |
-| Back to Top Button      | Quick navigation for the user to scroll to the top of the page                       | Alice                |
+| Home / Hero Section     | Showcase brand, highlight featured drinks, slider for promotions                    | Nimra Tauf              |
+| About                   | Provide information about the coffee shop, story, values                             | Nimra Rauf                 |
+| Menu / Categories       | Display drink categories, list products with description, images, prices            | Nimra Rauf              |
+| Live Search             | Allow users to search drinks by name or description                                  | Nimra Rauf                |
+| Order / Modal           | Enable users to select a drink, view price, add to cart                              | Malaika Raheem                  |
+| Cart / Modal            | Display items added to cart, allow quantity adjustments, remove items, checkout     | Malaika Raheem             |
+| Contact                 | Contact form for users to send messages or inquiries                                 | Nimra Rauf                |
+| Features Section        | Highlight unique features, e.g., quality beans, fast delivery, cozy ambiance        | Nimra Rauf                |
+| Footer                  | Include social media links, address, copyright information                          | Nimra Rauf            |
+| Back to Top Button      | Quick navigation for the user to scroll to the top of the page                       | Malaika Raheem                |
 
 ---
 
