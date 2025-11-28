@@ -16,9 +16,8 @@ Our project is a **modern coffee shop website** designed to showcase products, a
 | Order / Modal           | Enable users to select a drink, view price, add to cart                              | Malaika Raheem                  |
 | Cart / Modal            | Display items added to cart, allow quantity adjustments, remove items, checkout     | Malaika Raheem             |
 | Contact                 | Contact form for users to send messages or inquiries                                 | Nimra Rauf                |
-| Features Section        | Highlight unique features, e.g., quality beans, fast delivery, cozy ambiance        | Nimra Rauf                |
-| Footer                  | Include social media links, address, copyright information                          | Nimra Rauf            |
-| Back to Top Button      | Quick navigation for the user to scroll to the top of the page                       | Malaika Raheem                |
+| Features Section        | Highlight unique features, e.g., quality beans, fast delivery, cozy ambiance        | Malaika Raheem                |
+| Footer                  | Include social media links, address, copyright information                          | Nimra Rauf            |       
 
 ---
 
