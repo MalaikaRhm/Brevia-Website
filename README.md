@@ -9,7 +9,7 @@ Our project is a **modern coffee shop website** designed to showcase products, a
 
 | Module/Page Name        | Purpose/Functionality                                                                 | Responsible Member(s) |
 |-------------------------|-------------------------------------------------------------------------------------|----------------------|
-| Home / Hero Section     | Showcase brand, highlight featured drinks, slider for promotions                    | Nimra Tauf              |
+| Home / Hero Section     | Showcase brand, highlight featured drinks, slider for promotions                    | Nimra Rauf              |
 | About                   | Provide information about the coffee shop, story, values                             | Nimra Rauf                 |
 | Menu / Categories       | Display drink categories, list products with description, images, prices            | Nimra Rauf              |
 | Live Search             | Allow users to search drinks by name or description                                  | Nimra Rauf                |
