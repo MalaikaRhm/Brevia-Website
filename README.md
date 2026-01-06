@@ -96,20 +96,6 @@ The project uses a database named **`brevia`** with the following tables:
 | App.jsx             | Routing and app structure    | Both                |
 | main.jsx / index.js | Application entry point      | Both                |
 
---------------|------------|--------------------|
-| home.jsx | Landing page and main UI | Nimra Rauf |
-| menu.jsx | Menu display of bakery & coffee items | Nimra Rauf |
-| bakeryItems.js | Static data for products | Nimra Rauf |
-| assets (images) | Product images and media | Nimra Rauf |
-| customize.jsx | Product customization logic | Malaika Raheem |
-| checkout.jsx | Checkout and order confirmation | Malaika Raheem |
-| orders.jsx | Display placed orders | Malaika Raheem |
-| reviews.jsx | Customer reviews section | Malaika Raheem |
-| CartContext.jsx | Cart state management | Malaika Raheem |
-| MapViews.jsx | Map/location component | Nimra Rauf |
-| api/index.js | API handling structure | Malaika Raheem |
-| App.jsx | Routing and app structure | Nimra Rauf & Malaika Raheem |
-| main.jsx / index.js | Application entry point | Nimra Rauf & Malaika Raheem |
 
 ---
 
